@@ -1,0 +1,2 @@
+# $DIAMZ token
+
