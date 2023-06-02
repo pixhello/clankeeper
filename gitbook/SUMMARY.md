@@ -10,6 +10,6 @@
 ## Security
 
 * [Contracts](security/contracts.md)
-* [Official links](security/official-links.md)
+* [🔗 Official links](security/official-links.md)
 
 ## Group 1
